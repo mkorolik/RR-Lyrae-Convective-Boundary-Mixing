@@ -5,3 +5,5 @@
 Submitted to the Astrophysical Journal Letters.
 
 Depends on [mesagrid](https://github.com/earlbellinger/mesagrid)
+
+Data found in [zenodo]
